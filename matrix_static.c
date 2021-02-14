@@ -1,6 +1,5 @@
 /* File: matrix_static.c */
 #include "matrix_static.h"
-#define x 10
 
 matrix create_empty(int rdim, int cdim)
 {
