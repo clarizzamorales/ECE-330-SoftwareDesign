@@ -1,2 +1,2 @@
 # ECE-330-SoftwareDesign
-This is a repo for homework #2 on taking the transpose of a matrix 
+This is a repo for homework #2 on taking the transpose of a matrix. Used Vim and the GNU g++ compiler.
